@@ -1,3 +1,5 @@
+# Midterm Project - Online Shoppers Purchasing Intention  
+
 ## Problem
 
 Only **15.5%** of visitors make a purchase. This model predicts who will buy so e-commerce sites can:
